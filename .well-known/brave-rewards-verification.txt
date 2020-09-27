@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: scheidemandeldds.github.io
-Token: 3b5ce9ac724da8d5313fc3c9890095d229fb8b0052006b5993b1ff216c386da6
+Token: a065d04e8f7ec239bd6ef60388a4839fc59c70573a16e7a259388855c1407c3b
