@@ -5,4 +5,4 @@ I am a Doctor of Dental Surgery student in the Catholic University of Pelotas, U
 [My CV](PDFs/cv.pdf)
 [Contact Info](contact-info.html)
 	
-https://brave.com/sch210
+[become Brave](https://brave.com/sch210)
